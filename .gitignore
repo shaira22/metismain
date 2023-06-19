@@ -1,0 +1,11 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.idea
+vendor
+.DS_Store
+fr.pdf
+sources/fr.pdf
+Gemfile.lock
+config.yml
